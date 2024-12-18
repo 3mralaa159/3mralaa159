@@ -1,7 +1,7 @@
 # Who am i ?
 # 🌟 Hi there, I'm Amr Alaa 🌟
 
-![Banner Image]((https://media.licdn.com/dms/image/v2/D4D16AQHeyDvAJFzJUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732890419907?e=1740009600&v=beta&t=dPXBcQK7of-3Q9bBe7Nmoco5tqJsamzliF-MYuEn4BE))
+![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQHeyDvAJFzJUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732890419907?e=1740009600&v=beta&t=dPXBcQK7of-3Q9bBe7Nmoco5tqJsamzliF-MYuEn4BE)
 
 I'm a Data Analyst passionate about turning complex datasets into actionable strategies to drive business growth. 🚀  
 Here are a few things about me:
